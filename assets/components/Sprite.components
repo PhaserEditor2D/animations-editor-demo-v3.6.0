@@ -1,0 +1,25 @@
+{
+    "components": [
+        {
+            "name": "StartAnimation",
+            "baseClass": "",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": [
+                {
+                    "name": "animationKey",
+                    "label": "Animation Key",
+                    "tooltip": "The animation to start",
+                    "defValue": "",
+                    "type": {
+                        "id": "string"
+                    }
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Object Script Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

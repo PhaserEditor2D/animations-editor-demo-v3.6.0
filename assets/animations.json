@@ -1,0 +1,362 @@
+{
+    "anims": [
+        {
+            "key": "acorn",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "acorn-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "acorn-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "acorn-3",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "ant",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "ant-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "ant-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "ant-3",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "ant-4",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "ant-5",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "ant-6",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "ant-7",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "ant-8",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "enemy-death",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "enemy-death-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "enemy-death-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "enemy-death-3",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "enemy-death-4",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "hideOnComplete": true
+        },
+        {
+            "key": "gator",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "gator-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "gator-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "gator-3",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "gator-4",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "grasshopper-fall",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-fall-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-fall-2",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "grasshopper-idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-idle-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-idle-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-idle-3",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-idle-4",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "grasshopper-jump",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-jump-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "grasshopper-jump-2",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-crouch",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "player-crouch-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-crouch-2",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-hurt",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "player-hurt-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-hurt-2",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-3",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-4",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-5",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-6",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-7",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-idle-8",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-jump",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "player-jump-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-jump-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-jump-3",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-jump-4",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "player-run",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "atlas",
+                    "frame": "player-run-1",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-run-2",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-run-3",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-run-4",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-run-5",
+                    "duration": 0
+                },
+                {
+                    "key": "atlas",
+                    "frame": "player-run-6",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

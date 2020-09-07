@@ -1,0 +1,123 @@
+{
+    "id": "d2de8f63-89d5-48d8-9352-abc2b16e4db0",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "sceneKey": "Level",
+        "borderWidth": 160,
+        "borderHeight": 208
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "6cbd4cd6-9e8f-4b36-9cf1-562e39bc3b01",
+            "label": "bg_clouds",
+            "components": [],
+            "texture": {
+                "key": "bg-clouds"
+            },
+            "originX": 0,
+            "originY": 0
+        },
+        {
+            "type": "Image",
+            "id": "bd15cc06-579f-4c96-a261-c6ad3689894a",
+            "label": "bg_trees",
+            "components": [],
+            "texture": {
+                "key": "bg-trees"
+            },
+            "originX": 0,
+            "originY": 0
+        },
+        {
+            "type": "Image",
+            "id": "b8b9c442-f6d5-4d97-b951-79e5d1d12b18",
+            "label": "leaves",
+            "components": [],
+            "texture": {
+                "key": "atlas-props",
+                "frame": "leaves"
+            },
+            "x": 181,
+            "y": 174
+        },
+        {
+            "type": "Image",
+            "id": "fac7d6d9-bf3f-4111-b988-5356e68d55f3",
+            "label": "branch_03",
+            "components": [],
+            "texture": {
+                "key": "atlas-props",
+                "frame": "branch-03"
+            },
+            "x": -9,
+            "y": 194
+        },
+        {
+            "type": "Sprite",
+            "id": "e7a60943-5528-4036-856c-c29b5a4725cf",
+            "label": "acorn_1",
+            "components": [
+                "StartAnimation"
+            ],
+            "StartAnimation.animationKey": "acorn",
+            "texture": {
+                "key": "atlas",
+                "frame": "acorn-1"
+            },
+            "x": 38,
+            "y": 91
+        },
+        {
+            "type": "Sprite",
+            "id": "2be9122c-c4c4-419d-ab28-62e452f7ba04",
+            "label": "ant_1",
+            "components": [
+                "StartAnimation"
+            ],
+            "StartAnimation.animationKey": "ant",
+            "texture": {
+                "key": "atlas",
+                "frame": "ant-1"
+            },
+            "x": 112,
+            "y": 91
+        },
+        {
+            "type": "Sprite",
+            "id": "0ef991fc-69e1-4de0-8c77-9416325cea7b",
+            "label": "player_crouch_1",
+            "components": [
+                "StartAnimation"
+            ],
+            "StartAnimation.animationKey": "player-crouch",
+            "texture": {
+                "key": "atlas",
+                "frame": "player-crouch-1"
+            },
+            "x": 42,
+            "y": 39
+        },
+        {
+            "type": "Sprite",
+            "id": "4a932d90-7e74-4760-befa-a2eff2b45292",
+            "label": "gator_1",
+            "components": [
+                "StartAnimation"
+            ],
+            "StartAnimation.animationKey": "gator",
+            "texture": {
+                "key": "atlas",
+                "frame": "gator-1"
+            },
+            "x": 108,
+            "y": 48
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
